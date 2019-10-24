@@ -1,7 +1,7 @@
 {
     "name": "alexcamposlab/magento2-cep-autocomplete",
     "description": "Intelipost Autocomplete",
-    "type": "magento2-module",
+    "type": "library",
     "version": "1.0.0",
     "authors": [
         {
